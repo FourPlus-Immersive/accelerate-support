@@ -7,6 +7,7 @@ Accelerate uses two VR controllers for input. To learn more, visit the Meta [doc
 - **B/Y**: Teleport. Press and hold to create a position marker. Release to teleport to the marker location. Point marker at hotspots on the ground to engage.
 - **A/X**: Secondary action. Certain objects have actions that can be done by pressing the A/X button, such as opening or closing a held bottle.
 - **Menu**: Press and hold for 3 seconds to quit the current module and return to the lobby level.
+- **System**: The System button will pause the experience and bring you to the Meta system menu.
 
 ## Interfaces
 The virtual hands can interact with certain interfaces, such as the Facility Cleaning Order or Gowning Item Match activities. Touch the interface with the index finger of the virtual hand to click buttons.

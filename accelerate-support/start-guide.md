@@ -17,11 +17,15 @@ Set up your VR device and account by following the Meta [guidance](https://www.m
 3. Click "Get" to add Accelerate to your library.
 4. Accelerate will now be available to download/play on your VR device.
 
+![Accelerate on the Meta Horizon Store - Web](./images/accelerate-mhs-web.png "Accelerate on the Meta Horizon Store - web")
+
 ### Meta Horizon Store on the headset
 1. Navigate to the Meta Horizon Store app in your VR device.
 2. Search for "Accelerate".
 3. Select the app, ensure it's published by FourPlus Immersive.
 4. Click "Add to library".
+
+![Accelerate on the Meta Horizon Store - VR](./images/accelerate-mhs-vr.png "Accelerate on the Meta Horizon Store - VR")
 
 ## Installation
 1. Navigate to the Library app in your VR device.
